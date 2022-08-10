@@ -1,0 +1,6 @@
+[submodule "webviz-subsurface-components"]
+	path = webviz-subsurface-components
+	url = https://github.com/CeetronSolutions/webviz-subsurface-components.git
+[submodule "webviz-subsurface"]
+	path = webviz-subsurface
+	url = https://github.com/CeetronSolutions/webviz-subsurface.git
